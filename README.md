@@ -19,6 +19,6 @@ CNAME      space.gibbotauro.com
 
 ## Deploy
 
-1. Push su GitHub (repo `gibbotauro-linktree`, branch `main`)
+1. Push su GitHub (repo `linktree`, branch `main`)
 2. Pages → custom domain `space.gibbotauro.com` (CNAME già nel root)
 3. DNS Aruba: `CNAME space` → `GibbotauroSpaziale.github.io.`
